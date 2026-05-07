@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Excel / CSV Reports
+*.xlsx
+*.csv
+
+# Old versions folder
+old versions/
+
+# Downloads
+downloads/
+
+# Environment / secrets
+.env
+
+# VS Code
+.vscode/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Batch files
+*.bat
+
+# Logs
+*.log
