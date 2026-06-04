@@ -30,3 +30,11 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Added by Antigravity CLI
+.env.*
+.env.local
+.venv/
+downloader.db
+emails.db
+env/
